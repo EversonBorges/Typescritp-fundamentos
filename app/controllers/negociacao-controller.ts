@@ -13,6 +13,9 @@ export default class NegociacaoController {
         console.log( this.inputData.value);
         console.log( this.inputQuantidade.value);
         console.log( this.inputValor.value);
-        
+
+        console.log( this.inputData.value);
+        console.log( this.inputQuantidade.value);
+        console.log( this.inputValor.value);  
     }
 }
